@@ -7,6 +7,7 @@ Security is one of the most crucial parts of our lives. The importance of securi
 Because we can’t think of different patterns of passwords instantly.But, it is not the same case with computers. Computers can generate random and strong passwords based on our customizations in seconds. There are many password generators available.
 
 INTRODUCTION:
+
      Here,the password is generated in a specific order of 1 uppercase,1 lowercase,1 symbol and 1 digit must be present.length of the password must be greater than 4 and if not password will not sastisfy above condition .Initially a message will be printed before the code excutes.Mainly string and random modules are used for generating password.
 
 STEPS:
