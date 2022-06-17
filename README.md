@@ -34,4 +34,6 @@ STEPS:
 
 9)using for loop  for generating remaining letters for password by subtracting from length of password
 
-10)Finally,password was generated
+10)In this source code f-string for formatting string
+
+11)Finally,password was generated
