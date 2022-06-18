@@ -37,3 +37,13 @@ STEPS:
 10)In this source code f-string for formatting string
 
 11)Finally,password was generated
+
+
+OUTPUT:
+
+![PASSWORD](https://user-images.githubusercontent.com/106869388/174424647-a383741b-77db-4694-af89-945d09f01461.png)
+
+
+
+
+
